@@ -191,6 +191,7 @@ namespace Calcular_NIT_DIAN
 			this.Controls.Add(this.btnVer2);
 			this.Controls.Add(this.btnVerifica);
 			this.Controls.Add(this.btnCalcula);
+			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
 			this.Name = "MainForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Calcular NIT DIAN";
