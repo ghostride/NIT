@@ -176,7 +176,7 @@ namespace Calcular_NIT_DIAN
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(654, 250);
+			this.ClientSize = new System.Drawing.Size(654, 207);
 			this.Controls.Add(this.label4);
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.label2);
@@ -191,6 +191,7 @@ namespace Calcular_NIT_DIAN
 			this.Controls.Add(this.btnVer2);
 			this.Controls.Add(this.btnVerifica);
 			this.Controls.Add(this.btnCalcula);
+			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
 			this.Name = "MainForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Calcular NIT DIAN";
