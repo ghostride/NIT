@@ -1,0 +1,8 @@
+D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.csprojResolveAssemblyReference.cache
+D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.MainForm.resources
+D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.csproj.GenerateResource.Cache
+D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\bin\Debug\Calcular_NIT_DIAN.exe.config
+D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\bin\Debug\Calcular_NIT_DIAN.exe
+D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\bin\Debug\Calcular_NIT_DIAN.pdb
+D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.exe
+D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.pdb
