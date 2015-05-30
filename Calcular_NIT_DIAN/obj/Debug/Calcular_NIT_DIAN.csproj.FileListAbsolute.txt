@@ -6,3 +6,11 @@ D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\bin\Debug
 D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\bin\Debug\Calcular_NIT_DIAN.pdb
 D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.exe
 D:\Shared\xDisassember\1. Executes\Calcular_NIT_DIAN\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.pdb
+C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\bin\Debug\Calcular_NIT_DIAN.exe.config
+C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\bin\Debug\Calcular_NIT_DIAN.exe
+C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\bin\Debug\Calcular_NIT_DIAN.pdb
+C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.csprojResolveAssemblyReference.cache
+C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.MainForm.resources
+C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.csproj.GenerateResource.Cache
+C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.exe
+C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.pdb
