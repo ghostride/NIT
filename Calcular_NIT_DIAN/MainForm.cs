@@ -33,7 +33,7 @@ namespace Calcular_NIT_DIAN
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
-		
+	
 		void BtnCalculaClick(object sender, EventArgs e)
 		{
 			bool flag = this.txtNit.Text.Length > 0;
