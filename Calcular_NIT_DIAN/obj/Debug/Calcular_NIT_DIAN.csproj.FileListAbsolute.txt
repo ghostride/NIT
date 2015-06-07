@@ -13,5 +13,4 @@ C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.MainForm
 C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.csproj.GenerateResource.Cache
 C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.exe
 C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.pdb
-C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\bin\Debug\Calcular_NIT_DIAN.exe.CodeAnalysisLog.xml
-C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\bin\Debug\Calcular_NIT_DIAN.exe.lastcodeanalysissucceeded
+C:\Users\GB\Documents\NIT\Calcular_NIT_DIAN\obj\Debug\Calcular_NIT_DIAN.csprojResolveAssemblyReference.cache
